@@ -1,4 +1,24 @@
-#cambio 1
-#cambio 2
-#cambio 3
-#cambio 4
+num1 =10
+num2 =20
+res = num1 + num2
+print(res)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
